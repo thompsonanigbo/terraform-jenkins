@@ -6,5 +6,5 @@ cidr_public_subnet   = ["11.0.1.0/24", "11.0.2.0/24"]
 cidr_private_subnet  = ["11.0.3.0/24", "11.0.4.0/24"]
 eu_availability_zone = ["eu-west-1a", "eu-west-1b"]
 
-public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDwmgMHFJE7J4qepIzAZL3/yC6J0zsEAb/oHYL+WBBDNUjSH4TeHUnHVNe9b/pyPcub+O/HNvlGrzSxUp0xT0b3O7kkTtgBKiG8NaBbonj+c7byfOGER80DYxc5adlBltuIDd8StFe7OMzbYyUSr1mdxDTIWm/OoE39G/fu3hTqUGkykv072GAy8nMFejITRw9pf+53B9ziE5rsdOUH4uqBiQa/Ng/qKo7h9MtJGcloRATYiObXwAgrHtt3sDrtvkq2ZceT906/BJm1Twlm+BHlQecHV18Ak3bzm/6HzlsA/q+yORsoB+VxSUxvVy0nXTc1X8vJAD4KSYVL5DTrpisdnQAIcuqAbea+LMku2o4sdnrrIlUi8/8BXeVbI4TNNGd0+sWpCVcDEhb4gyA/XXTvloQyjTYrL4+am/9XEY6NGdsrPK74sjvtpUZPUrmzTJ/mJWG5ncGY88GAj+YZAsY5pnAqh2CkR2TUpglugldnWyrppbe2QyC9iQkgUGSkBTs= rahulwagh@Rahuls-MacBook-Pro.local"
-ec2_ami_id = "ami-0694d931cee176e7d"
+public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC5Y2T6CtYBsncZ8SI6xN2zECoIn487qpIIi3KP9cMgeYwLJmkfGXus+3TXRyhSI2jKs265jzOvvgRdHqxFJfdpxcAOzjGprN3H9J26vFCVvOybxv0jsbcp3Eh90TMg5jrXlo5gaJXxLkLouFM+0/AxsdSbMjWq5G4C+WghZmRfc1FNCPu2NN29r5QLlr4VXI5N1kBScmWlsC7csQFQLWgaW+DSJAucbWL2Zol+iFZ9l1v+bPFpd2KFsDj5WX9449xb+yXy9ry9/Jc2wPSJ6uLXrGYO3EIGUnanDwBpSY88zebQ757sgrq0MeMJerix7AlqHauql5JZMdzeUvmu/KxlG6e2YQvj+R2uOXbo2jDJVrAW1VrWFEkA5ZxyMamFClTTw1L/9PjOiSnYYUW93XiqGw32OGOhNPkmPPJCFcV7MlEX1lqOlT3LwcYFqkFlIqm+8OA5JtW9GE/PKbVH/9MUr5UXAKipSDuOWuLzesKdpl1xoVFcLui5q//3Ro+jqUM= vikash@vikash-Inspiron-15-3511"
+ec2_ami_id = "ami-0c38b837cd80f13bb"
